@@ -18,3 +18,5 @@ Skyhold to rozwiązanie dla firm i użytkowników indywidualnych, którzy oczeku
 
 ---
 > **Skyhold – Twoja tarcza w świecie cyberbezpieczeństwa! 🛡️**
+
+[![Dołącz do społeczności](https://img.shields.io/discord/1344379770145869917?label=Dołącz%20do%20społeczności&logo=Discord&logoColor=white&style=for-the-badge)](https://discord.gg/YnRNvSS27h)
